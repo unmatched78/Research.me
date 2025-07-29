@@ -1,0 +1,3 @@
+- [ ] https://www.moh.gov.rw/index.php?eID=dumpFile&t=f&f=11845&token=2632498bc3b2e20c054b4811373493064940934a
+- [ ] https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Guidelines_Protocols/Rwanda_Medical_Procedure_Coding/rmpcversion4print.pdf
+- [ ] https://moh.prod.risa.rw/fileadmin/user_upload/Moh/Publications/Guidelines_Protocols/Rwanda_Medical_Procedure_Coding/Proposed_Rwanda_Health_Insurance_Claim_form.pdf
